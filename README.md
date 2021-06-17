@@ -7,4 +7,9 @@ A basic Snake Game made using C++ programming language which follows below menti
 3. The snake will respawn if it hits the boundaries. It can respawn three times before game over.
 4. Game over if snake head overlaps its own body (represented with '*').
 
+Following are a couple of snapshots
 
+![](./Snapshots/1.PNG)
+
+
+![](./Snapshots/2.PNG)
